@@ -2,6 +2,8 @@
 
 ### About me in code
 
+
+```js
 const bdguevarah = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Java, CSharp],
@@ -21,3 +23,4 @@ const bdguevarah = {
    currentOccupation: ["Development Engineer 2"],
    challenge: ["I am working to be a better developer, learn to be a DJ/Producer and be happy with both facets"],
 };
+
