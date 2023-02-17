@@ -21,7 +21,7 @@ const bdguevarah = {
       mobile: ["Android"]
    },
    currentOccupation: ["Development Engineer 2"],
-   challenge: ["I am working to be a better developer, learn to be a DJ/Producer and be happy with both facets"],
+   challenge: ["I am working to be a better developer, learn to be a I am constantly learning to be a better developer and I am also interested in computer security, hacking and devops"],
 }
 ´´´
 
